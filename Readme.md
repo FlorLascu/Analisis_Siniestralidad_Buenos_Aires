@@ -1,7 +1,5 @@
 # Análisis de Siniestralidad de la Cuidad De Buenos Aires
 
-<img src="02.%20imagenes/Banner_Buenos_Aires.JPG" alt="BA" width="100%">
-
 ![Banner](02.%20imagenes/Banner_Buenos_Aires.jpg)
 
 # 1. Descripción del Proyecto
