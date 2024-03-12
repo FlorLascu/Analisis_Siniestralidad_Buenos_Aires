@@ -2,6 +2,8 @@
 
 <img src="02.%20imagenes/Banner_Buenos_Aires.JPG" alt="BA" width="100%">
 
+![Banner](02.%20imagenes/Banner_Buenos_Aires.jpg)
+
 # 1. Descripción del Proyecto
 
 El objetivo de este proyecto fue realizar un análisis de datos para el Observatorio de Movilidad y Seguridad Vial (OMSV) con el propósito de generar un Informe sobre la situación actual e histórica de los siniestros y victimas fatales en la Cuidad de Buenos Aires para el período 2016 a 2021.<br>
