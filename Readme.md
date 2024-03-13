@@ -243,3 +243,5 @@ En este link se encuentran las funciones que escribí para realizar varias de la
 [Bastrap 7.1](https://gcba.github.io/BAstrap/#introduccion)
 
 [Beyond Defaults: Using Custom Fonts in Power BI](https://medium.com/microsoft-power-bi/beyond-defaults-using-custom-fonts-in-power-bi-b2b341fd323e)
+
+[Esperanza de Vida al Nacer](https://www.estadisticaciudad.gob.ar/eyc/?p=28013)
